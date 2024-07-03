@@ -25,9 +25,9 @@ I'm a passionate Android Engineer with over 5 years of experience crafting high-
 
 ### Notable Projects
 
-- **Aura Frames**: Developed with Kotlin, Java, and BLE, incorporating Kotlin Coroutines, LiveData, and SQLite.
+- **Aura Frames**: Developed with Kotlin, Java, incorporating Kotlin Coroutines, LiveData, and SQLite.
 - **WaterGuru**: Built using Kotlin, RxJava, RoomDB, and Retrofit with BLE integration.
-- **iAquaLink**: Cross-platform app using Java, Swift, React Native, and RxJava, with RealmDB and BLE.
+- **iAquaLink**: Cross-platform app using React Native with BLE integration.
 
 ---
 
