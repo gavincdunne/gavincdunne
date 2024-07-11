@@ -15,7 +15,7 @@ I'm a passionate Android Engineer with over 5 years of experience crafting high-
 - **Languages:** Kotlin, Java, Swift, JavaScript
 - **Android Development:** Android SDK, Android Studio, Jetpack Compose, Kotlin Coroutines, MVVM, RoomDB, Dagger & Hilt
 - **Cross-Platform:** KMM, React Native
-- **Tools:** Git, GitHub, CI/CD, Firebase, Mixpanel, Notion, Jira
+- **Tools:** Git, CI/CD, Firebase, Mixpanel, Notion, Jira
 
 ### Experience Highlights
 
