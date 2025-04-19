@@ -2,7 +2,7 @@
 
 **Sr. Android Engineer | Kotlin | Java**
 
-Fairfax, CA, 94930 | [gavincdunne@gmail.com](mailto:gavincdunne@gmail.com) | [LinkedIn](https://linkedin.com/in/dunnefortheday)
+St. Simon's Island, GA | [gavincdunne@gmail.com](mailto:gavincdunne@gmail.com) | [LinkedIn](https://linkedin.com/in/dunnefortheday)
 
 ---
 
