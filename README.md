@@ -6,7 +6,9 @@
 ---
 
 ### 👨‍💻 About Me  
-I'm a results-driven Android Engineer with 5+ years of experience designing, building, and scaling mobile applications. I specialize in Kotlin and modern Android architecture, but I’m just as comfortable diving into legacy codebases to refactor, modernize, and optimize for performance and maintainability. My goal is always the same: clean, testable code and a smooth user experience.
+Android engineer focused on building fast, intuitive apps with clean architecture and maintainable code. I’ve worked across greenfield and legacy projects with a constant focus on UX, performance, and thoughtful design.
+
+Open to freelance contracts, full-time roles, and collaborative remote opportunities.
 
 ---
 
