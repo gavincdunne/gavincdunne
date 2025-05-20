@@ -39,6 +39,12 @@ Open to freelance contracts, full-time roles, and collaborative remote opportuni
 ---
 
 ### 📱 Featured Projects  
-- **[Aura Frames](https://play.google.com/store/apps/details?id=com.pushd.client)** – Built smart frame media playback using Kotlin, ExoPlayer, and ffmpeg to support smooth photo and video rendering on-device  
+- **[Aura Frames](https://play.google.com/store/apps/details?id=com.pushd.client)** – Built smart frame media playback using Kotlin, ExoPlayer, and ffmpeg to support smooth photo and video rendering  
 - **[WaterGuru](https://play.google.com/store/apps/details?id=com.waterguru.android)** – Designed BLE device pairing and a real-time water quality dashboard using Room and RxJava  
-- **[iAquaLink](https://play.google.com/store/apps/details?id=com.zodiac.iaqualink)** – Developed cross-platform BLE control featu
+- **[iAquaLink](https://play.google.com/store/apps/details?id=com.zodiac.iaqualink)** – Developed cross-platform BLE control features with React Native and native Android/iOS modules  
+
+---
+
+### 📬 Get in Touch  
+If you're building something meaningful or just want to connect, feel free to reach out:  
+📧 [gavincdunne@gmail.com](mailto:gavincdunne@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/dunnefortheday)
