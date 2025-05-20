@@ -22,25 +22,33 @@ Open to freelance contracts, full-time roles, and collaborative remote opportuni
 
 ### 💼 Experience Highlights  
 **Senior Android Engineer** @ **Aura Home Inc**  
-- Led development on Android features with focus on UI performance, scalability, and Compose migration  
-- Partnered with designers to deliver intuitive and consistent experiences across devices  
-- Refactored legacy code for modern architecture patterns and improved test coverage  
+   –  Migrated legacy Java features to Kotlin and introduced Android Jetpack components, resulting 
+       in 99%+ crash-free sessions (Firebase Crashlytics)
+   –  Designed and implemented MVVM architecture with ViewModels, Coroutines, and Flows 
+       to streamline data flow and improve maintainability
+   –  Rebuilt CI/CD with Bitrise and added unit testing support, improving release 
+       stability and dev velocity
 
 **Android Engineer** @ **ProductOps**  
-- Built and maintained apps across industries (health, fitness, IoT), using Kotlin, Swift, and React Native  
-- Modernized legacy codebases using MVVM, Coroutines, and dependency injection  
-- Created prototypes, mentored team members, and managed app store deployments  
+   –  Delivered modular, reusable codebases in Kotlin, Java, and JavaScript; secured 5 major 
+       client contracts through rapid prototyping and demos
+   –  Collaborated with client engineering teams on Android and React Native apps, accelerating 
+       delivery through clean integrations and architectural improvements
+   –  Built custom hardware integrations and BLE support in Android apps, enabling seamless 
+       device communication and real-time user feedback
 
 **Web Developer** @ **Perfectmind Software**  
-- Implemented responsive, SEO-optimized web designs  
-- Refactored outdated components and improved frontend performance  
-
+   –  Built responsive websites using HTML, CSS, and JavaScript within a proprietary CMS
+   –  Guided small business clients on UX principles, leading to improved engagement and conversions
 ---
 
 ### 📱 Featured Projects  
-- **Aura Frames** – Kotlin + Coroutines + LiveData + SQLite  
-- **WaterGuru** – Kotlin + RxJava + RoomDB + Retrofit + BLE  
-- **iAquaLink** – React Native cross-platform app with BLE integration  
+- [Aura Frames](play.google.com/store/apps/details?id=com.pushd.client) – Built smart frame media playback using Kotlin, ExoPlayer, and ffmpeg 
+to support smooth photo and video rendering on-device.
+- [WaterGuru](play.google.com/store/apps/details?id=com.waterguru.android) – Designed BLE device pairing and real-time water quality dashboard using 
+Room and RxJava for sensor data persistence.
+- [iAquaLink](play.google.com/store/apps/details?id=com.zodiac.iaqualink) – Developed cross-platform features in React Native with native Android 
+and iOS modules to control connected pool equipment over BLE.
 
 ---
 
