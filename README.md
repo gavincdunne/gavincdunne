@@ -23,28 +23,22 @@ Open to freelance contracts, full-time roles, and collaborative remote opportuni
 ### 💼 Experience Highlights  
 
 **Senior Android Engineer** @ *Aura Home Inc*  
-– Migrated legacy Java features to Kotlin and introduced Jetpack components, resulting in 99%+ crash-free sessions (Firebase Crashlytics)  
-– Designed and implemented MVVM architecture with ViewModels, Coroutines, and Flows to streamline data flow and improve maintainability  
-– Rebuilt CI/CD with Bitrise and added unit testing support, improving release stability and dev velocity  
+- Migrated legacy Java features to Kotlin and introduced Jetpack components, resulting in 99%+ crash-free sessions (Firebase Crashlytics)  
+- Designed and implemented MVVM architecture with ViewModels, Coroutines, and Flows to streamline data flow and improve maintainability  
+- Rebuilt CI/CD with Bitrise and added unit testing support, improving release stability and dev velocity  
 
 **Android Engineer** @ *ProductOps*  
-– Delivered modular, reusable codebases in Kotlin, Java, and JavaScript; secured 5 major client contracts through rapid prototyping and demos  
-– Collaborated with client teams on Android and React Native apps, accelerating delivery through clean integrations  
-– Built hardware integrations and BLE support in Android apps, enabling real-time device communication  
+- Delivered modular, reusable codebases in Kotlin, Java, and JavaScript; secured 5 major client contracts through rapid prototyping and demos  
+- Collaborated with client teams on Android and React Native apps, accelerating delivery through clean integrations  
+- Built hardware integrations and BLE support in Android apps, enabling real-time device communication  
 
 **Web Developer** @ *Perfectmind Software*  
-– Built responsive websites using HTML, CSS, and JavaScript within a proprietary CMS  
-– Guided small business clients on UX principles, leading to improved engagement and conversions  
+- Built responsive websites using HTML, CSS, and JavaScript within a proprietary CMS  
+- Guided small business clients on UX principles, leading to improved engagement and conversions  
 
 ---
 
 ### 📱 Featured Projects  
 - **[Aura Frames](https://play.google.com/store/apps/details?id=com.pushd.client)** – Built smart frame media playback using Kotlin, ExoPlayer, and ffmpeg to support smooth photo and video rendering on-device  
 - **[WaterGuru](https://play.google.com/store/apps/details?id=com.waterguru.android)** – Designed BLE device pairing and a real-time water quality dashboard using Room and RxJava  
-- **[iAquaLink](https://play.google.com/store/apps/details?id=com.zodiac.iaqualink)** – Developed cross-platform BLE control features with React Native and native Android/iOS modules  
-
----
-
-### 📬 Get in Touch  
-If you're building something meaningful or just want to connect, feel free to reach out:  
-📧 [gavincdunne@gmail.com](mailto:gavincdunne@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/dunnefortheday)
+- **[iAquaLink](https://play.google.com/store/apps/details?id=com.zodiac.iaqualink)** – Developed cross-platform BLE control featu
