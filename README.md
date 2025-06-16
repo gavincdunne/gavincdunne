@@ -47,4 +47,4 @@ Open to freelance contracts, full-time roles, and collaborative remote opportuni
 
 ### 📬 Get in Touch  
 If you're building something meaningful or just want to connect, feel free to reach out:  
-📧 [gavincdunne@gmail.com](mailto:gavincdunne@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/dunnefortheday)
+📧 [weekendwareinbox@gmail.com](mailto:weekendwareinbox@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/dunnefortheday)
