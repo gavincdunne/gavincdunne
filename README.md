@@ -1,15 +1,20 @@
 # Hi, I'm Gavin Dunne 👋
 
-**Mobile Engineer → Technical Writing | Developer Support | Developer Advocacy**
+**Mobile Engineer → Technical Support | QA | Solutions Engineering | Technical Writing**
 📍 St. Simons Island, GA | 📫 [gavincdunne@gmail.com](mailto:gavincdunne@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/dunnefortheday)
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a mobile engineer with 5+ years building Android apps across consulting and product companies. These days I'm focused on roles that bridge technical depth and clear communication — Technical Writing, Developer Support, and Developer Advocacy.
+I'm a mobile engineer with 5+ years building Android apps across consulting and product 
+companies. These days I'm focused on roles that bridge technical depth and clear 
+communication — Technical Support, QA, Solutions Engineering, and Technical Writing.
 
-I've shipped real apps, debugged gnarly concurrency issues, integrated BLE hardware, and worked directly with clients to explain complex systems simply. I know what it's like to be the developer staring at broken docs or unhelpful error messages — and I want to be the person who fixes that.
+I've shipped real apps, debugged gnarly concurrency issues, integrated BLE hardware, and 
+spent years working directly with clients to explain complex systems simply. I know what 
+it's like to be the developer staring at broken docs or an unhelpful error message — and 
+I want to be the person who fixes that.
 
 Open to remote roles.
 
@@ -18,31 +23,27 @@ Open to remote roles.
 ### 🛠️ Tech Stack
 
 - **Languages:** Kotlin, Java, JavaScript, HTML/CSS
-- **Android:** Jetpack Compose, Android SDK, Kotlin Coroutines, Room, MVVM, Hilt
+- **Android:** Android SDK, Kotlin Coroutines, Room, MVVM, Hilt, Jetpack
 - **Cross-Platform:** Kotlin Multiplatform (KMP), React Native
 - **Tools:** Git, Firebase, Bitrise, REST APIs, BLE, Retrofit, Jira
-
----
-
-### 📱 Featured Projects
-
-- **[Basil](https://github.com/gavincdunne/basil)** — KMP app helping Type 1 diabetics track glucose and manage daily health. Built with empathy-first UX and clean architecture.
-- **[ChatBro](https://github.com/gavincdunne/chat-bro)** — Android mental health companion for young men. Approachable, stigma-free, AI-assisted.
 
 ---
 
 ### 💼 Experience Highlights
 
 **Senior Android Engineer** @ *Aura Home Inc*
-- Modernized legacy Java codebase to Kotlin + Jetpack, achieving 99%+ crash-free sessions
-- Rebuilt CI/CD with Bitrise and introduced unit testing pipeline
+- Investigated and resolved complex concurrency and data flow issues on a constrained IoT platform
+- Tracked and reduced crash rates using Firebase Crashlytics after modernizing legacy Java codebase to Kotlin and Jetpack
+- Rebuilt CI/CD pipelines (Bitrise) and expanded test coverage to improve release reliability
 
-**Android Engineer** @ *ProductOps*
-- Delivered Android and React Native apps across 5+ client engagements
-- Built BLE hardware integrations for real-time device communication
+**Mobile Engineer** @ *ProductOps*
+- Served as primary technical contact across 5+ client engagements, troubleshooting integrations and communicating solutions clearly
+- Delivered rapid prototypes and live demos that directly secured major client contracts
+- Built BLE hardware integrations for real-time device communication across Android and React Native
 
 **Web Developer** @ *Perfectmind Software*
-- Built responsive websites and guided small business clients on UX and CMS usage
+- Built responsive websites using HTML, CSS, and JavaScript
+- Supported small business clients directly, resolving issues and explaining technical concepts in plain language
 
 ---
 
