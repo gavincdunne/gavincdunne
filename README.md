@@ -1,50 +1,51 @@
-# Hi, I'm Gavin Dunne 👋  
-**Senior Android Engineer — Kotlin • Java • Jetpack Compose**
+# Hi, I'm Gavin Dunne 👋
 
-📍 St. Simon's Island, GA | 📫 [gavincdunne@gmail.com](mailto:gavincdunne@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/dunnefortheday)
-
----
-
-### 👨‍💻 About Me  
-I'm an Android engineer focused on building fast, intuitive apps with clean architecture and maintainable code. I’ve worked on both greenfield and legacy projects with a consistent focus on UX, performance, and thoughtful design.
-
-Open to freelance contracts, full-time roles, and collaborative remote opportunities.
+**Mobile Engineer → Technical Writing | Developer Support | Developer Advocacy**
+📍 St. Simons Island, GA | 📫 [gavincdunne@gmail.com](mailto:gavincdunne@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/dunnefortheday)
 
 ---
 
-### 🛠️ Tech Stack  
-- **Languages:** Kotlin, Java, Swift, JavaScript  
-- **Android:** Jetpack Compose, Android SDK, Kotlin Coroutines, Room, MVVM, Dagger/Hilt  
-- **Cross-Platform:** Kotlin Multiplatform Mobile (KMM), React Native  
-- **Tools & Platforms:** Git, Firebase, Retrofit, BLE, CI/CD (Bitrise, Fastlane), Mixpanel, Notion, Jira  
+### 👨‍💻 About Me
+
+I'm a mobile engineer with 5+ years building Android apps across consulting and product companies. These days I'm focused on roles that bridge technical depth and clear communication — Technical Writing, Developer Support, and Developer Advocacy.
+
+I've shipped real apps, debugged gnarly concurrency issues, integrated BLE hardware, and worked directly with clients to explain complex systems simply. I know what it's like to be the developer staring at broken docs or unhelpful error messages — and I want to be the person who fixes that.
+
+Open to remote roles.
 
 ---
 
-### 💼 Experience Highlights  
+### 🛠️ Tech Stack
 
-**Senior Android Engineer** @ *Aura Home Inc*  
-- Migrated legacy Java features to Kotlin and introduced Jetpack components, resulting in 99%+ crash-free sessions (Firebase Crashlytics)  
-- Designed and implemented MVVM architecture with ViewModels, Coroutines, and Flows to streamline data flow and improve maintainability  
-- Rebuilt CI/CD with Bitrise and added unit testing support, improving release stability and dev velocity  
-
-**Android Engineer** @ *ProductOps*  
-- Delivered modular, reusable codebases in Kotlin, Java, and JavaScript; secured 5 major client contracts through rapid prototyping and demos  
-- Collaborated with client teams on Android and React Native apps, accelerating delivery through clean integrations  
-- Built hardware integrations and BLE support in Android apps, enabling real-time device communication  
-
-**Web Developer** @ *Perfectmind Software*  
-- Built responsive websites using HTML, CSS, and JavaScript within a proprietary CMS  
-- Guided small business clients on UX principles, leading to improved engagement and conversions  
+- **Languages:** Kotlin, Java, JavaScript, HTML/CSS
+- **Android:** Jetpack Compose, Android SDK, Kotlin Coroutines, Room, MVVM, Hilt
+- **Cross-Platform:** Kotlin Multiplatform (KMP), React Native
+- **Tools:** Git, Firebase, Bitrise, REST APIs, BLE, Retrofit, Jira
 
 ---
 
-### 📱 Featured Projects  
-- **[Aura Frames](https://play.google.com/store/apps/details?id=com.pushd.client)** – Built smart frame media playback using Kotlin, ExoPlayer, and ffmpeg to support smooth photo and video rendering  
-- **[WaterGuru](https://play.google.com/store/apps/details?id=com.waterguru.android)** – Designed BLE device pairing and a real-time water quality dashboard using Room and RxJava  
-- **[iAquaLink](https://play.google.com/store/apps/details?id=com.zodiac.iaqualink)** – Developed cross-platform BLE control features with React Native and native Android/iOS modules  
+### 📱 Featured Projects
+
+- **[Basil](https://github.com/gavincdunne/basil)** — KMP app helping Type 1 diabetics track glucose and manage daily health. Built with empathy-first UX and clean architecture.
+- **[ChatBro](https://github.com/gavincdunne/chat-bro)** — Android mental health companion for young men. Approachable, stigma-free, AI-assisted.
 
 ---
 
-### 📬 Get in Touch  
-If you're building something meaningful or just want to connect, feel free to reach out:  
-📧 [weekendwareinbox@gmail.com](mailto:weekendwareinbox@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/dunnefortheday)
+### 💼 Experience Highlights
+
+**Senior Android Engineer** @ *Aura Home Inc*
+- Modernized legacy Java codebase to Kotlin + Jetpack, achieving 99%+ crash-free sessions
+- Rebuilt CI/CD with Bitrise and introduced unit testing pipeline
+
+**Android Engineer** @ *ProductOps*
+- Delivered Android and React Native apps across 5+ client engagements
+- Built BLE hardware integrations for real-time device communication
+
+**Web Developer** @ *Perfectmind Software*
+- Built responsive websites and guided small business clients on UX and CMS usage
+
+---
+
+### 📬 Get in Touch
+
+📧 [gavincdunne@gmail.com](mailto:gavincdunne@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/dunnefortheday)
