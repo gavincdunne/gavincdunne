@@ -26,7 +26,8 @@
 
   **Cross-Platform** — Kotlin Multiplatform (KMP), Compose Multiplatform, React Native
 
-  **Tools** — Git, SQLDelight, Firebase, Bitrise, REST APIs, BLE, Retrofit, Jira
+  **Tools** — Git, GitHub Actions, Bitrise, Android Studio, Xcode, Firebase, REST APIs, BLE, Retrofit, Postman, Jira, Slack,
+  Figma
 
   ---
 
