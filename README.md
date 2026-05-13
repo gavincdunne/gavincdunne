@@ -11,7 +11,7 @@ Mobile engineer with 5+ years building Android apps across consulting and produc
 
 I've shipped real apps, debugged gnarly concurrency issues, integrated BLE hardware, and spent years working directly with clients to explain complex systems in plain language. I know what it's like to be a developer staring at broken docs or a useless error message — and I want to be the person who fixes that.
 
-Between Aura and now, I spent a stretch coaching tennis full-time on St. Simons while building Basil on the side. It wasn't a detour — coaching turned out to be high-volume, high-stakes, customer-facing work that sharpened the half of the job I most want to lean into now: explaining hard things to people who don't share your context, in real time, when something is going wrong. Coming back to tech feels like a real choice, not a default.
+Spent the last few years coaching tennis full-time on St. Simons and building Basil. Same job, different surface — explaining hard things to people who don't share your context, in real time, when something is going wrong.
 
 ---
 
