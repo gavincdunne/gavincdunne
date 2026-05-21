@@ -51,7 +51,7 @@ Spent the last few years coaching tennis full-time on St. Simons and building Ba
 ### Current Projects
 
 **[Basil](https://github.com/gavincdunne/basil)** — A Kotlin Multiplatform app for managing Type 1 diabetes. One codebase targeting Android, iOS, and desktop with Compose Multiplatform, SQLDelight, and Koin.
-
+**[Wild Heron Home](https://github.com/gavincdunne/wild-heron-home)** — A self-hosted home built on open source. Media, smart home, automation, and whatever else sounds fun.
 ---
 
 ### Recent Writing
