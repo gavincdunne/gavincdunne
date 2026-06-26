@@ -25,6 +25,10 @@ the person in front of you.
 for managing Type 1 Diabetes, targeting Android, iOS, and desktop from a single
 codebase with Compose Multiplatform, SQLDelight, and Koin.
 
+**[WeekendWare](https://github.com/gavincdunne/WeekendWare)** is a solo software
+shop where AI agents fill every team role — PM, Architect, Security, QA, and
+Design — each working from a job description. Basil is the first project.
+
 **[Wild Heron Home](https://github.com/gavincdunne/wild-heron-home)** is a
 self-hosted home stack for media, smart home automation, and general
 experimentation.
@@ -33,12 +37,15 @@ experimentation.
 
 ### Writing
 
-*Returning, with receipts* is a LinkedIn series about what the last few years
-gave me and what I'm bringing back to engineering.
+On LinkedIn:
 
 - [Meeting people where they are](https://www.linkedin.com/feed/update/urn:li:activity:7439727184941875200/)
 - [Legacy code in the AI era](https://www.linkedin.com/feed/update/urn:li:activity:7454917574288580608/)
 - [Defaults you can trust](https://www.linkedin.com/feed/update/urn:li:activity:7459677435874246656/)
+
+On Substack: 
+
+- [The Barrier to Building Has Collapsed](https://gavincdunne.substack.com/p/the-barrier-to-building-has-collapsed) — on building WeekendWare with an AI team, and what it still can't do.
 
 ---
 
