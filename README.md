@@ -46,7 +46,7 @@ On LinkedIn:
 On Substack: 
 
 - [The Barrier to Building Has Collapsed](https://gavincdunne.substack.com/p/the-barrier-to-building-has-collapsed) — on building WeekendWare with an AI team, and what it still can't do.
-- [The Invisible Layer](https://gavincdunne.substack.com/p/the-invisible-layer) — on software dissolving into everyday life, and what comes after the interface.
+- [Software is not disappearing, it's dissolving](https://gavincdunne.substack.com/p/the-invisible-layer) — on software dissolving into everyday life, and what comes after the interface.
 
 ---
 
