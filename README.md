@@ -1,10 +1,7 @@
 # Gavin Dunne
 
 **Android & Web Engineer → Technical Operations · Support · QA · Solutions Engineering**  
-St. Simons Island, GA · gavincdunne@gmail.com  
-
-[LinkedIn](https://linkedin.com/in/dunnefortheday)
-[Substack](https://gavincdunne.substack.com/)
+St. Simons Island, GA · gavincdunne@gmail.com · [LinkedIn](https://linkedin.com/in/dunnefortheday) · [Substack](https://gavincdunne.substack.com/)   
 
 ---
 
