@@ -1,7 +1,10 @@
 # Gavin Dunne
 
 **Android & Web Engineer → Technical Operations · Support · QA · Solutions Engineering**  
-St. Simons Island, GA · gavincdunne@gmail.com · [LinkedIn](https://linkedin.com/in/dunnefortheday)
+St. Simons Island, GA · gavincdunne@gmail.com  
+
+[LinkedIn](https://linkedin.com/in/dunnefortheday)
+[Substack](https://gavincdunne.substack.com/)
 
 ---
 
@@ -37,16 +40,11 @@ experimentation.
 
 ### Writing
 
-On LinkedIn:
 - [Meeting people where they are](https://www.linkedin.com/feed/update/urn:li:activity:7439727184941875200/)
 - [Legacy code in the AI era](https://www.linkedin.com/feed/update/urn:li:activity:7454917574288580608/)
 - [Defaults you can trust](https://www.linkedin.com/feed/update/urn:li:activity:7459677435874246656/)
-
-
-On Substack: 
-- [The Barrier to Building Has Collapsed](https://gavincdunne.substack.com/p/the-barrier-to-building-has-collapsed) — on building WeekendWare with an AI team, and what it still can't do.
-- [Software is not disappearing, it's dissolving](https://gavincdunne.substack.com/p/the-invisible-layer) — on software dissolving into everyday life, and what comes after the interface.
-
+- [The Barrier to Building Has Collapsed](https://gavincdunne.substack.com/p/the-barrier-to-building-has-collapsed)
+- [Software is not disappearing, it's dissolving](https://gavincdunne.substack.com/p/the-invisible-layer)
 ---
 
 ### What I'm looking for
